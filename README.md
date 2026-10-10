@@ -81,7 +81,7 @@ root -l -b -q ../macros/cls_limit_toy.C
 
 ### Signal-plus-background fit
  
-![Fit of the signal-plus-background model to x6](sugnal_plus_bg.png)
+![Fit of the signal-plus-background model to x6](signal_plus_bg.png)
  
 RooPlot of `x6` (0–9): data points, total model (black solid), and dashed component curves. The figure has no legend and no archived console output, so the assignment of the red/blue/green dashed curves is inferred, not recorded: red is most likely the Breit–Wigner signal, blue the Gaussian background; the identity of the green curve is not established here. The screenshot is attributed to `discovery_standalone.C` (the `x6` variable and the bin width of 0.09 = 9/100 are consistent with it), but the macro that produced it was not recorded.
  
