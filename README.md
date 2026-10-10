@@ -19,6 +19,7 @@ discovery_standalone.C            the whole chain in one macro                  
 
 cls_limit_toy.C                   CLs upper limit on generated toy data         (no input file)
 ```
+![Example Screenshot](example.png)
 
 ## Statistical model
 
